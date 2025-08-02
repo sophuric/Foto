@@ -1,9 +1,9 @@
 <div align="center">
     <img alt="Foto" src="assets/Foto.png" width="128"/>
     <h3 align="center">A simple image viewer written in C</h3>
-    <img alt="Version" src="https://img.shields.io/github/v/release/mekb-turtle/foto?style=flat&logoColor=f5c2e7&labelColor=1e1e2e&color=f5c2e7" />
-    <img alt="Stars" src="https://img.shields.io/github/stars/mekb-turtle/foto?style=flat&logoColor=f5c2e7&labelColor=1e1e2e&color=f5c2e7" />
-    <img alt="License" src="https://img.shields.io/github/license/mekb-turtle/foto?style=flat&logoColor=f5c2e7&labelColor=1e1e2e&color=f5c2e7" />
+    <img alt="Version" src="https://img.shields.io/github/v/release/sophuric/foto?style=flat&logoColor=f5c2e7&labelColor=1e1e2e&color=f5c2e7" />
+    <img alt="Stars" src="https://img.shields.io/github/stars/sophuric/foto?style=flat&logoColor=f5c2e7&labelColor=1e1e2e&color=f5c2e7" />
+    <img alt="License" src="https://img.shields.io/github/license/sophuric/foto?style=flat&logoColor=f5c2e7&labelColor=1e1e2e&color=f5c2e7" />
 </div>
 
 ---
@@ -37,7 +37,7 @@ Find the following dependencies in your package manager or elsewhere:
 - `meson`
 
 ```bash
-git clone https://github.com/mekb-turtle/foto.git
+git clone https://github.com/sophuric/foto.git
 cd foto
 git checkout "$(git describe --tags --abbrev=0)" # checkout to latest tag, omit for latest commit
 meson setup build
